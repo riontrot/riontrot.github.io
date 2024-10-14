@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riontrot.github.io/sitemap.html.gz
+Sitemap: https://riontrot.github.io/app/sitemap.html.gz
+Sitemap: https://riontrot.github.io/assets/sitemap.html.gz
+Sitemap: https://riontrot.github.io/css/sitemap.html.gz
+Sitemap: https://riontrot.github.io/includes/sitemap.html.gz
+Sitemap: https://riontrot.github.io/item/sitemap.html.gz
+Sitemap: https://riontrot.github.io/src/sitemap.html.gz
